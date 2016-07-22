@@ -1,0 +1,9 @@
+private void set-(# *){
+
+	this.* = *;
+}
+
+private # get-{
+
+	return *;
+}

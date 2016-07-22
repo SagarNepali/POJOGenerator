@@ -1,0 +1,9 @@
+private void set-(String *){
+
+	this.* = *;
+}
+
+private # get-{
+
+	return *;
+}
